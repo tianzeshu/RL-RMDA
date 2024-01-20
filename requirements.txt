@@ -1,0 +1,6 @@
+allennlp==2.9.0
+numpy==1.21.6
+overrides==3.1.0
+torch==1.9.1+cu111
+tqdm==4.62.3
+transformers==4.15.0
