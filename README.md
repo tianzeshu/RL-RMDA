@@ -101,7 +101,7 @@ The modules I have implemented are listed below.
 2. Nooralahzadeh Farhad, Lonning Jan Tore, Ovrelid Lilja. "[Reinforcement-based denoising of distantly supervised NER with partial annotation](https://aclanthology.org/D19-6125)." Proceedings of the 2nd Workshop on Deep Learning Approaches for Low-Resource NLP. 2019.
 3. Yaosheng Yang, Wenliang Chen, Zhenghua Li, Zhengqiu He and Min Zhang."[Distantly supervised NER with partial annotation learning and reinforcement learning](https://aclanthology.org/C18-1183)." Proceedings of the 27th International Conference on Computational Linguistics. 2018.
 
-## 4 
+## 4 How to Cite This Work
 
 If you find this work helpful in your research, please kindly consider citing the following paper. The bibtex are listed below:
 
