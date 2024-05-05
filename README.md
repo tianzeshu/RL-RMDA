@@ -103,7 +103,7 @@ The modules I have implemented are listed below.
 
 ## 4 How to Cite This Work
 
-If you find this work helpful in your research, please kindly consider citing the following paper. The bibtex are listed below:
+If you find this work helpful in your research, please kindly consider citing the following paper. The bibtex is listed below:
 
     @INPROCEEDINGS{Tian2406:Reinforcement,
     AUTHOR="Zeshu Tian and Hongli Zhang and Yan Wang",
